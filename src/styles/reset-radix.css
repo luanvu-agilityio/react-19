@@ -1,0 +1,29 @@
+:root {
+  --default-font-family: var(--font-family-primary) !important;
+  --font-family: var(--font-family-primary) !important;
+}
+
+[class^='rt-'],
+[class*=' rt-'] {
+  font-family: var(--font-family-primary) !important;
+}
+
+.rt-Text,
+.rt-Heading,
+.rt-Label,
+.rt-Button,
+.rt-DialogTitle,
+.rt-DialogContent,
+.rt-SelectTrigger,
+.rt-SelectContent,
+.rt-SelectItem,
+.rt-TabsTrigger,
+.rt-ToastTitle,
+.rt-ToastDescription {
+  font-family: var(--font-family-primary) !important;
+}
+
+.rt-DialogContent *,
+.rt-SelectContent * {
+  font-family: var(--font-family-primary) !important;
+}

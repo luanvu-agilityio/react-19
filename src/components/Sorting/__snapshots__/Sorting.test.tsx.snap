@@ -1,0 +1,238 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sorting rendering renders correctly with default values 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fpEFIB gJeBUE"
+  >
+    <span
+      class="sc-gAqISa bdMoJO"
+    >
+      Sort By:
+    </span>
+    <div
+      class="sc-fWnslK jxddlX"
+      style="width: 100%; margin: 0px; padding: 0px; min-width: 100px; max-width: 200px;"
+    >
+      <div
+        data-testid="select-mock"
+      >
+        <select
+          data-testid="mock-select-element"
+        >
+          <option
+            value="name"
+          >
+            Name
+          </option>
+          <option
+            value="price"
+          >
+            Price
+          </option>
+          <option
+            value="rating"
+          >
+            Rating
+          </option>
+        </select>
+      </div>
+    </div>
+    <div
+      class="sc-lpbaSe jeXvxE"
+    >
+      <label
+        style="display: flex; align-items: center; gap: 4px; cursor: pointer;"
+      >
+        <input
+          checked=""
+          class="sc-fbguzk biTuMg"
+          name="sortOrder"
+          type="radio"
+        />
+        <span
+          class="sc-brzPDJ cNZMBK"
+        >
+          <span>
+            Ascending
+          </span>
+        </span>
+      </label>
+      <label
+        style="display: flex; align-items: center; gap: 4px; cursor: pointer;"
+      >
+        <input
+          class="sc-fbguzk biTuMg"
+          name="sortOrder"
+          type="radio"
+        />
+        <span
+          class="sc-brzPDJ jRwoUa"
+        >
+          <span>
+            Descending
+          </span>
+        </span>
+      </label>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Sorting rendering renders correctly with descending order 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fpEFIB gJeBUE"
+  >
+    <span
+      class="sc-gAqISa bdMoJO"
+    >
+      Sort By:
+    </span>
+    <div
+      class="sc-fWnslK jxddlX"
+      style="width: 100%; margin: 0px; padding: 0px; min-width: 100px; max-width: 200px;"
+    >
+      <div
+        data-testid="select-mock"
+      >
+        <select
+          data-testid="mock-select-element"
+        >
+          <option
+            value="name"
+          >
+            Name
+          </option>
+          <option
+            value="price"
+          >
+            Price
+          </option>
+          <option
+            value="rating"
+          >
+            Rating
+          </option>
+        </select>
+      </div>
+    </div>
+    <div
+      class="sc-lpbaSe jeXvxE"
+    >
+      <label
+        style="display: flex; align-items: center; gap: 4px; cursor: pointer;"
+      >
+        <input
+          class="sc-fbguzk biTuMg"
+          name="sortOrder"
+          type="radio"
+        />
+        <span
+          class="sc-brzPDJ jRwoUa"
+        >
+          <span>
+            Ascending
+          </span>
+        </span>
+      </label>
+      <label
+        style="display: flex; align-items: center; gap: 4px; cursor: pointer;"
+      >
+        <input
+          checked=""
+          class="sc-fbguzk biTuMg"
+          name="sortOrder"
+          type="radio"
+        />
+        <span
+          class="sc-brzPDJ cNZMBK"
+        >
+          <span>
+            Descending
+          </span>
+        </span>
+      </label>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Sorting rendering renders correctly with price sorting 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fpEFIB gJeBUE"
+  >
+    <span
+      class="sc-gAqISa bdMoJO"
+    >
+      Sort By:
+    </span>
+    <div
+      class="sc-fWnslK jxddlX"
+      style="width: 100%; margin: 0px; padding: 0px; min-width: 100px; max-width: 200px;"
+    >
+      <div
+        data-testid="select-mock"
+      >
+        <select
+          data-testid="mock-select-element"
+        >
+          <option
+            value="name"
+          >
+            Name
+          </option>
+          <option
+            value="price"
+          >
+            Price
+          </option>
+          <option
+            value="rating"
+          >
+            Rating
+          </option>
+        </select>
+      </div>
+    </div>
+    <div
+      class="sc-lpbaSe jeXvxE"
+    >
+      <label
+        style="display: flex; align-items: center; gap: 4px; cursor: pointer;"
+      >
+        <input
+          checked=""
+          class="sc-fbguzk biTuMg"
+          name="sortOrder"
+          type="radio"
+        />
+        <span
+          class="sc-brzPDJ cNZMBK"
+        >
+          <span>
+            Ascending
+          </span>
+        </span>
+      </label>
+      <label
+        style="display: flex; align-items: center; gap: 4px; cursor: pointer;"
+      >
+        <input
+          class="sc-fbguzk biTuMg"
+          name="sortOrder"
+          type="radio"
+        />
+        <span
+          class="sc-brzPDJ jRwoUa"
+        >
+          <span>
+            Descending
+          </span>
+        </span>
+      </label>
+    </div>
+  </div>
+</DocumentFragment>
+`;

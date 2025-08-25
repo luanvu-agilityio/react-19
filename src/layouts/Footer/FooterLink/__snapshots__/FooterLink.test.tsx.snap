@@ -1,0 +1,314 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FooterLink Component Snapshot Tests renders correctly 1`] = `
+<div>
+  <div
+    class="radix-themes"
+    data-accent-color="indigo"
+    data-gray-color="slate"
+    data-has-background="true"
+    data-is-root-theme="true"
+    data-panel-background="translucent"
+    data-radius="medium"
+    data-scaling="100%"
+  >
+    <div
+      class="rt-Container rt-r-size-4 sc-dKREkF hQnCSn"
+    >
+      <div
+        class="rt-ContainerInner"
+      >
+        <div
+          class="rt-Box sc-fWnslK fvayEG"
+        >
+          <div
+            class="sc-iQQCXo iVsoZM"
+            data-orientation="vertical"
+          >
+            <div
+              class="sc-gDpztx fYwqbf"
+              data-orientation="vertical"
+              data-state="closed"
+            >
+              <button
+                aria-controls="radix-«r1»"
+                aria-expanded="false"
+                class="sc-kpOvIu lhozLR"
+                data-orientation="vertical"
+                data-radix-collection-item=""
+                data-state="closed"
+                id="radix-«r0»"
+                type="button"
+              >
+                <div
+                  class="rt-Flex rt-r-ai-center rt-r-jc-space-between sc-jMsorb gtiVR"
+                >
+                  <h3
+                    style="font-size: 18px; font-weight: var(--font-weight-semibold); margin: 0px;"
+                  >
+                    Get in touch
+                  </h3>
+                  <svg
+                    aria-hidden="true"
+                    class="lucide lucide-chevron-down"
+                    fill="none"
+                    height="20"
+                    stroke="var(--black-color-default)"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    style="opacity: 0.7;"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m6 9 6 6 6-6"
+                    />
+                  </svg>
+                </div>
+              </button>
+              <div
+                aria-labelledby="radix-«r0»"
+                class="sc-icnseD dVVNyc"
+                data-orientation="vertical"
+                data-state="closed"
+                hidden=""
+                id="radix-«r1»"
+                role="region"
+                style="--radix-accordion-content-height: var(--radix-collapsible-content-height); --radix-accordion-content-width: var(--radix-collapsible-content-width);"
+              />
+            </div>
+            <div
+              class="sc-gDpztx fYwqbf"
+              data-orientation="vertical"
+              data-state="closed"
+            >
+              <button
+                aria-controls="radix-«r3»"
+                aria-expanded="false"
+                class="sc-kpOvIu lhozLR"
+                data-orientation="vertical"
+                data-radix-collection-item=""
+                data-state="closed"
+                id="radix-«r2»"
+                type="button"
+              >
+                <div
+                  class="rt-Flex rt-r-ai-center rt-r-jc-space-between sc-jMsorb gtiVR"
+                >
+                  <h3
+                    style="font-size: 18px; font-weight: var(--font-weight-semibold); margin: 0px;"
+                  >
+                    Connections
+                  </h3>
+                  <svg
+                    aria-hidden="true"
+                    class="lucide lucide-chevron-down"
+                    fill="none"
+                    height="20"
+                    stroke="var(--black-color-default)"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    style="opacity: 0.7;"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m6 9 6 6 6-6"
+                    />
+                  </svg>
+                </div>
+              </button>
+              <div
+                aria-labelledby="radix-«r2»"
+                class="sc-icnseD dVVNyc"
+                data-orientation="vertical"
+                data-state="closed"
+                hidden=""
+                id="radix-«r3»"
+                role="region"
+                style="--radix-accordion-content-height: var(--radix-collapsible-content-height); --radix-accordion-content-width: var(--radix-collapsible-content-width);"
+              />
+            </div>
+            <div
+              class="sc-gDpztx fYwqbf"
+              data-orientation="vertical"
+              data-state="closed"
+            >
+              <button
+                aria-controls="radix-«r5»"
+                aria-expanded="false"
+                class="sc-kpOvIu lhozLR"
+                data-orientation="vertical"
+                data-radix-collection-item=""
+                data-state="closed"
+                id="radix-«r4»"
+                type="button"
+              >
+                <div
+                  class="rt-Flex rt-r-ai-center rt-r-jc-space-between sc-jMsorb gtiVR"
+                >
+                  <h3
+                    style="font-size: 18px; font-weight: var(--font-weight-semibold); margin: 0px;"
+                  >
+                    Earnings
+                  </h3>
+                  <svg
+                    aria-hidden="true"
+                    class="lucide lucide-chevron-down"
+                    fill="none"
+                    height="20"
+                    stroke="var(--black-color-default)"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    style="opacity: 0.7;"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m6 9 6 6 6-6"
+                    />
+                  </svg>
+                </div>
+              </button>
+              <div
+                aria-labelledby="radix-«r4»"
+                class="sc-icnseD dVVNyc"
+                data-orientation="vertical"
+                data-state="closed"
+                hidden=""
+                id="radix-«r5»"
+                role="region"
+                style="--radix-accordion-content-height: var(--radix-collapsible-content-height); --radix-accordion-content-width: var(--radix-collapsible-content-width);"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="rt-Box sc-dIMoHT fFa-DKa"
+        >
+          <div
+            class="rt-Flex rt-r-fw-wrap rt-r-gap-6"
+          >
+            <div
+              class="rt-Box"
+              style="flex: 1 1 200px;"
+            >
+              <h3
+                style="font-size: 18px; font-weight: var(--font-weight-semibold); margin-bottom: 12px;"
+              >
+                Get in touch
+              </h3>
+              <ul
+                class="sc-cXawGu fBFvsf"
+              >
+                <li
+                  class="sc-jJAtPt chzrZx"
+                >
+                  <a
+                    class="sc-fYsHOw kWZTnm"
+                    data-discover="true"
+                    href="/about"
+                  >
+                    About Us
+                  </a>
+                </li>
+                <li
+                  class="sc-jJAtPt chzrZx"
+                >
+                  <a
+                    class="sc-fYsHOw kWZTnm"
+                    data-discover="true"
+                    href="/careers"
+                  >
+                    Careers
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div
+              class="rt-Box"
+              style="flex: 1 1 200px;"
+            >
+              <h3
+                style="font-size: 18px; font-weight: var(--font-weight-semibold); margin-bottom: 12px;"
+              >
+                Connections
+              </h3>
+              <ul
+                class="sc-cXawGu fBFvsf"
+              >
+                <li
+                  class="sc-jJAtPt chzrZx"
+                >
+                  <a
+                    class="sc-Qotzb jUyYcI"
+                    href="https://facebook.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Facebook
+                  </a>
+                </li>
+                <li
+                  class="sc-jJAtPt chzrZx"
+                >
+                  <a
+                    class="sc-Qotzb jUyYcI"
+                    href="https://twitter.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Twitter
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div
+              class="rt-Box"
+              style="flex: 0 0 auto;"
+            >
+              <h3
+                style="font-size: 18px; font-weight: var(--font-weight-semibold); margin-bottom: 12px;"
+              >
+                Earnings
+              </h3>
+              <ul
+                class="sc-cXawGu fBFvsf"
+              >
+                <li
+                  class="sc-jJAtPt chzrZx"
+                >
+                  <a
+                    class="sc-fYsHOw kWZTnm"
+                    data-discover="true"
+                    href="/affiliate"
+                  >
+                    Become an Affiliate
+                  </a>
+                </li>
+                <li
+                  class="sc-jJAtPt chzrZx"
+                >
+                  <a
+                    class="sc-fYsHOw kWZTnm"
+                    data-discover="true"
+                    href="/sell"
+                  >
+                    Sell on Market
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

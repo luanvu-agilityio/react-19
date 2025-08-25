@@ -1,0 +1,34 @@
+html,
+body {
+  font-family: var(--font-family-primary);
+  font-size: 62.5%;
+
+  min-width: 100%;
+  margin: 0 auto;
+  padding-right: 0px;
+  transition: padding-right 0.1s ease;
+}
+
+html {
+  scrollbar-gutter: stable;
+  font-family: var(--font-family-primary);
+}
+
+body[style*='overflow: hidden'] {
+  padding-right: 10px;
+}
+
+.section {
+  max-width: 1260px;
+  padding: 24px 0;
+  margin: 0 auto;
+
+  @media (min-width: 1260px) {
+    padding: 0 45px;
+  }
+}
+.hidden {
+  display: none;
+}
+
+/* 1. General reset for all Radix components */
